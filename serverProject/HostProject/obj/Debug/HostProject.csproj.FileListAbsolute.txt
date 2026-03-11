@@ -1,0 +1,104 @@
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.exe.config
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.exe
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.dll.config
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.exe
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.pdb
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\CateringDB.mdf
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\CateringDB_log.ldf
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.exe.config
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.exe
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.pdb
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.dll
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.dll
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.pdb
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.dll.config
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.xml
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.AssemblyReference.cache
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.CoreCompileInputs.cache
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProj.210256E3.Up2Date
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.exe
+D:\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\CateringDB.mdf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\CateringDB_log.ldf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.SuggestedBindingRedirects.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.CopyComplete
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\CateringDB.mdf
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\CateringDB_log.ldf
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.exe.config
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.exe
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\HostProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\serverProject.dll.config
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProj.210256E3.Up2Date
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.exe
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\HostProject\obj\Debug\HostProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\CateringDB.mdf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\CateringDB_log.ldf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\HostProject.exe.config
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\HostProject.exe
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\HostProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\serverProject.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\serverProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\serverProject.dll.config
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\obj\Debug\HostProject.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\obj\Debug\HostProject.csproj.SuggestedBindingRedirects.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\obj\Debug\HostProject.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\obj\Debug\HostProject.csproj.CopyComplete
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\obj\Debug\HostProject.exe
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\HostProject\obj\Debug\HostProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\CateringDB.mdf
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\CateringDB_log.ldf
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\HostProject.exe.config
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\HostProject.exe
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\HostProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\serverProject.dll.config
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\obj\Debug\HostProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\obj\Debug\HostProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\obj\Debug\HostProj.210256E3.Up2Date
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\obj\Debug\HostProject.exe
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\HostProject\obj\Debug\HostProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\CateringDB.mdf
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\CateringDB_log.ldf
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\HostProject.exe.config
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\HostProject.exe
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\HostProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\serverProject.dll.config
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\obj\Debug\HostProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\obj\Debug\HostProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\obj\Debug\HostProj.210256E3.Up2Date
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\obj\Debug\HostProject.exe
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\HostProject\obj\Debug\HostProject.pdb

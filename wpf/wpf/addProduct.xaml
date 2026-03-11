@@ -1,0 +1,30 @@
+﻿<Page x:Class="wpf.addProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="addProduct"
+       FlowDirection="RightToLeft">
+
+    <StackPanel>
+        <TextBlock x:Name="NameProduct" Text="שם מוצר" Margin="5" Background="#FFC33123" />
+        <TextBox x:Name="txtNameProduct" />
+
+        <TextBlock x:Name="Description" Text="תאור מוצר" Margin="5" Background="#FFC33123"/>
+        <TextBox x:Name="txtDescription" />
+
+        <TextBlock x:Name="price" Text="מחיר מוצר" Margin="5" Background="#FFC33123"/>
+        <TextBox x:Name="txtPrice" />
+
+        <TextBlock Text="שיוך לקטגוריה"  Background="#FFC33123" Margin="5"/>
+        <ComboBox x:Name="cmbCategory" DisplayMemberPath="CategoryName" SelectedValuePath="CategorId" Background="AliceBlue"/>
+        
+        <!--<TextBlock Text="הוספת תמונה"--> 
+
+        <Button Content="הוספה" Margin="5" Background="#FFC33123" Click="Button_Click"/>
+
+    </StackPanel>
+</Page>

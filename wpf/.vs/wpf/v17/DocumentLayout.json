@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|c:\\users\\hp\\desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\productcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\productcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\mybasket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\mybasket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\productcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\productcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\mybasket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\mybasket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ordercard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\ordercard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyBasket.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MyBasket.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\MyBasket.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MyBasket.xaml.cs",
+              "RelativeToolTip": "wpf\\MyBasket.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:44:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\ProductView.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductView.xaml.cs",
+              "RelativeToolTip": "wpf\\ProductView.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:16:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductView.xaml",
+              "RelativeDocumentMoniker": "wpf\\ProductView.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductView.xaml",
+              "RelativeToolTip": "wpf\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T16:16:25.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBasket.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MyBasket.xaml",
+              "RelativeDocumentMoniker": "wpf\\MyBasket.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MyBasket.xaml",
+              "RelativeToolTip": "wpf\\MyBasket.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T16:03:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderView.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\OrderView.xaml",
+              "RelativeDocumentMoniker": "wpf\\OrderView.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\OrderView.xaml",
+              "RelativeToolTip": "wpf\\OrderView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T16:02:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderCard.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\OrderCard.xaml",
+              "RelativeDocumentMoniker": "wpf\\OrderCard.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\OrderCard.xaml",
+              "RelativeToolTip": "wpf\\OrderCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T16:02:21.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCard.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductCard.xaml",
+              "RelativeDocumentMoniker": "wpf\\ProductCard.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductCard.xaml",
+              "RelativeToolTip": "wpf\\ProductCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T13:33:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "wpf\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "wpf\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAPwCAAAAAAAAAAAmwAcDAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T18:58:47.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductCard.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\ProductCard.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\ProductCard.xaml.cs",
+              "RelativeToolTip": "wpf\\ProductCard.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T18:52:22.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\Login.xaml.cs",
+              "RelativeToolTip": "wpf\\Login.xaml.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAApwF8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:00:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [Read Only]",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAawCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:55:46.378Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\Login.xaml",
+              "RelativeDocumentMoniker": "wpf\\Login.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\Login.xaml",
+              "RelativeToolTip": "wpf\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T18:55:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAD4vxkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:31:05.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\wpf\\wpf\\MainWindow.xaml",
+              "RelativeToolTip": "wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T17:30:21.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

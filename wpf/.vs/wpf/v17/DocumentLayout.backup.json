@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|x:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddOrderDetailWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wpf\\Connected Services\\AddOrderDetailWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EE9B16-7D91-4B6C-880F-0D53F5169DF6}|wpf\\wpf.csproj|solutionrelative:wpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\ServiceReference1\\OrderDetailWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wpf\\Connected Services\\ServiceReference1\\OrderDetailWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddCustomerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wpf\\Connected Services\\AddCustomerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddCustomerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wpf\\Connected Services\\AddCustomerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.cs",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Global.cs",
+              "RelativeDocumentMoniker": "wpf\\Global.cs",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Global.cs",
+              "RelativeToolTip": "wpf\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:27:16.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\MainWindow.xaml",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\MainWindow.xaml*",
+              "RelativeToolTip": "wpf\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T09:53:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\App.xaml",
+              "RelativeDocumentMoniker": "wpf\\App.xaml",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\App.xaml",
+              "RelativeToolTip": "wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T09:52:55.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "wpf\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "wpf\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:37:46.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrderDetailWindow.xaml",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddOrderDetailWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\Connected Services\\AddOrderDetailWindow.xaml",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddOrderDetailWindow.xaml",
+              "RelativeToolTip": "wpf\\Connected Services\\AddOrderDetailWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T09:52:47.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetailWindow.xaml",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\ServiceReference1\\OrderDetailWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\Connected Services\\ServiceReference1\\OrderDetailWindow.xaml",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\ServiceReference1\\OrderDetailWindow.xaml",
+              "RelativeToolTip": "wpf\\Connected Services\\ServiceReference1\\OrderDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T09:52:47.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCustomerWindow.xaml",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\Connected Services\\AddCustomerWindow.xaml",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddCustomerWindow.xaml",
+              "RelativeToolTip": "wpf\\Connected Services\\AddCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T13:56:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\MainWindow.xaml.cs",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:28:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCustomerWindow.xaml.cs",
+              "DocumentMoniker": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf\\Connected Services\\AddCustomerWindow.xaml.cs",
+              "ToolTip": "X:\\\u05DE\u05D2\u05DE\u05D5\u05EA \u05EA\u05D9\u05DB\u05D5\u05DF\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D5\u05EA \u05D3\\\u05D34\\\u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D5\u05E8\u05D3 \u05DE\u05D0\u05D6\u05D5\u05D6\\wpf\\wpf\\Connected Services\\AddCustomerWindow.xaml.cs",
+              "RelativeToolTip": "wpf\\Connected Services\\AddCustomerWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:28:24.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

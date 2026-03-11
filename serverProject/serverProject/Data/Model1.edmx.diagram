@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="58544062bacf45bcbf8c9e4e8db0ed71" Name="Diagram1" ZoomLevel="121">
+        <EntityTypeShape EntityType="CateringDBModel.Category" Width="1.5" PointX="0.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CateringDBModel.Customer" Width="1.5" PointX="12.875" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CateringDBModel.OrderDetail" Width="1.5" PointX="7.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CateringDBModel.Order" Width="1.5" PointX="10.125" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CateringDBModel.ProductCategory" Width="1.5" PointX="2.875" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CateringDBModel.Product" Width="1.5" PointX="5.25" PointY="3.25" IsExpanded="true" />
+        <AssociationConnector Association="CateringDBModel.FK__ProductCa__Categ__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="CateringDBModel.FK__Orders__Customer__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="CateringDBModel.FK__OrderDeta__Order__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="CateringDBModel.FK__OrderDeta__Produ__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="CateringDBModel.FK__ProductCa__Produ__4CA06362" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

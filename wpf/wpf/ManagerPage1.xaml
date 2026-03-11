@@ -1,0 +1,50 @@
+﻿<Page x:Class="wpf.ManagerPage1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ManagerPage1"
+       FlowDirection="RightToLeft">
+
+    <Grid Margin="30">
+
+
+
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+               <ColumnDefinition Width="*"/>
+               <ColumnDefinition Width="*"/>
+
+
+        </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+
+            </Grid.RowDefinitions>
+
+            <!-- Header -->
+
+            <Button x:Name="customers" Grid.Column="0" Grid.Row="0" Content="לקוחות"  BorderBrush="transparent" Background="Red" Foreground="White" VerticalAlignment="Top"  Click="customers_Click"/>
+        <Button x:Name="orders" Grid.Column="1" Grid.Row="0" Content= " ניהול הזמנות"  BorderBrush="transparent" Background="Red" Foreground="White"  VerticalAlignment="Top" Click="orders_Click" />
+        <Button x:Name="ContentButton" Grid.Column="2"  Grid.Row="0" Content="הודעות" BorderBrush="transparent" Background="Red" Foreground="White" VerticalAlignment="Top" Click="ContentButton_Click"/>
+        <Button x:Name="ManageButton" Grid.Column="3" Grid.Row="0" Content="הכנסות" BorderBrush="transparent" Background="Red" Foreground="White"  VerticalAlignment="Top" Click="ManageButton_Click"/>
+        <Button x:Name="addCatagoria" Grid.Column="4" Grid.Row="0" Content="הוספת קטגוריה" BorderBrush="transparent"  Background="Red" Foreground="White"  VerticalAlignment="Top" Click="addCatagoria_Click" />
+        <Button x:Name="addProduct" Grid.Column="5" Grid.Row="0" Content="הוספת מוצר" BorderBrush="transparent" Background="Red" Foreground="White"  VerticalAlignment="Top" Click="addProduct_Click" />
+
+
+
+            <!--Frame-->
+            <Frame x:Name="ManagerFrame" NavigationUIVisibility="Hidden" Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="6"/>
+
+    </Grid> 
+      
+</Page>

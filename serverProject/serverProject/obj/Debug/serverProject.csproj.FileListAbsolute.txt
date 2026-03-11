@@ -1,0 +1,84 @@
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.dll.config
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.pdb
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\CateringDB.mdf
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\CateringDB_log.ldf
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.dll.config
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.dll
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.pdb
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.dll
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.xml
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.AssemblyReference.cache
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.CoreCompileInputs.cache
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverPr.A6AA2541.Up2Date
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.dll
+D:\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\CateringDB.mdf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\CateringDB_log.ldf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.CopyComplete
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\CateringDB.mdf
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\CateringDB_log.ldf
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.dll.config
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverPr.A6AA2541.Up2Date
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\פרוייקט ורד מאזוז\serverProject\serverProject\obj\Debug\serverProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\CateringDB.mdf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\CateringDB_log.ldf
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\serverProject.dll.config
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\serverProject.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\serverProject.pdb
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\obj\Debug\serverProject.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\obj\Debug\serverProject.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\obj\Debug\serverProject.csproj.CopyComplete
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\obj\Debug\serverProject.dll
+X:\מגמות תיכון\תכנות\כיתות ד\ד4\ורד מאזוז\מעודכן\serverProject\serverProject\obj\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\CateringDB.mdf
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\CateringDB_log.ldf
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\serverProject.dll.config
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\obj\Debug\serverProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\obj\Debug\serverProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\obj\Debug\serverPr.A6AA2541.Up2Date
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\obj\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\ורד מאזוז-מעודכן\serverProject\serverProject\obj\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\CateringDB.mdf
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\CateringDB_log.ldf
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\serverProject.dll.config
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\serverProject.pdb
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\obj\Debug\serverProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\obj\Debug\serverProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\obj\Debug\serverPr.A6AA2541.Up2Date
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\obj\Debug\serverProject.dll
+C:\Users\hp\Desktop\ורד מאזוז\לגילי תודההה!!!!!!!!\serverProject\serverProject\obj\Debug\serverProject.pdb
