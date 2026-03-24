@@ -7,44 +7,70 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="ManagerPage1"
-       FlowDirection="RightToLeft">
+      FlowDirection="RightToLeft">
 
-    <Grid Margin="30">
+    <Grid>
+        <Image x:Name="BackgroundImage" 
+               Source="/Images/fish.jpg"
+               Stretch="UniformToFill"
+               Opacity="0.3">
+            <Image.Effect>
+                <BlurEffect Radius="30"/>
+            </Image.Effect>
+        </Image>
 
+        <Rectangle Fill="Black" Opacity="0.7"/>
 
-
-        <Grid.ColumnDefinitions>
+        <Grid Margin="30">
+            <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
-               <ColumnDefinition Width="*"/>
-               <ColumnDefinition Width="*"/>
-
-
-        </Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
 
             <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="2*"/>
-
             </Grid.RowDefinitions>
 
-            <!-- Header -->
+            <StackPanel Grid.Row="0" Grid.ColumnSpan="6" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                <StackPanel.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#D4AF37"/>
+                        <Setter Property="Foreground" Value="Black"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Margin" Value="5"/>
+                        <Setter Property="Padding" Value="10,5"/>
+                        <Setter Property="Height" Value="40"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="8"/>
+                            </Style>
+                        </Style.Resources>
+                    </Style>
+                </StackPanel.Resources>
 
-            <Button x:Name="customers" Grid.Column="0" Grid.Row="0" Content="לקוחות"  BorderBrush="transparent" Background="Red" Foreground="White" VerticalAlignment="Top"  Click="customers_Click"/>
-        <Button x:Name="orders" Grid.Column="1" Grid.Row="0" Content= " ניהול הזמנות"  BorderBrush="transparent" Background="Red" Foreground="White"  VerticalAlignment="Top" Click="orders_Click" />
-        <Button x:Name="ContentButton" Grid.Column="2"  Grid.Row="0" Content="הודעות" BorderBrush="transparent" Background="Red" Foreground="White" VerticalAlignment="Top" Click="ContentButton_Click"/>
-        <Button x:Name="ManageButton" Grid.Column="3" Grid.Row="0" Content="הכנסות" BorderBrush="transparent" Background="Red" Foreground="White"  VerticalAlignment="Top" Click="ManageButton_Click"/>
-        <Button x:Name="addCatagoria" Grid.Column="4" Grid.Row="0" Content="הוספת קטגוריה" BorderBrush="transparent"  Background="Red" Foreground="White"  VerticalAlignment="Top" Click="addCatagoria_Click" />
-        <Button x:Name="addProduct" Grid.Column="5" Grid.Row="0" Content="הוספת מוצר" BorderBrush="transparent" Background="Red" Foreground="White"  VerticalAlignment="Top" Click="addProduct_Click" />
+                <Button x:Name="customers" Content="לקוחות" Click="customers_Click"/>
+                <Button x:Name="orders" Content="ניהול הזמנות" Click="orders_Click" />
+                <Button x:Name="ContentButton" Content="הודעות" Click="ContentButton_Click"/>
+                <Button x:Name="ManageButton" Content="הכנסות" Click="ManageButton_Click"/>
+                <Button x:Name="addCatagoria" Content="הוספת קטגוריה" Click="addCatagoria_Click" />
+                <Button x:Name="addProduct" Content="הוספת מוצר" Click="addProduct_Click" />
+            </StackPanel>
 
-
-
-            <!--Frame-->
-            <Frame x:Name="ManagerFrame" NavigationUIVisibility="Hidden" Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="6"/>
-
-    </Grid> 
-      
+            <Border Grid.Row="1" Grid.ColumnSpan="6" 
+                    Background="#33FFFFFF" 
+                    CornerRadius="15" 
+                    BorderBrush="#D4AF37" 
+                    BorderThickness="1" 
+                    Margin="0,10,0,0">
+                <Frame x:Name="ManagerFrame" NavigationUIVisibility="Hidden"/>
+            </Border>
+        </Grid>
+    </Grid>
 </Page>
