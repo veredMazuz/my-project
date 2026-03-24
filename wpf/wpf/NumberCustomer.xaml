@@ -7,25 +7,69 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="NumberCustomer"
-       FlowDirection="RightToLeft">
-<ScrollViewer>
-    <StackPanel>
-    <TextBlock   Text="מספר העובדים" Margin="10"  Height="30" />
-        <TextBlock Margin="10" x:Name="text1"   Height="30" Background="Red" ></TextBlock>
-        <Button x:Name="count" Click="count_Click" Content="כמה לקוחות יש??"></Button>
-            <Button x:Name="add" Content="הוסף לקוח" Click="add_Click"></Button>
-            <ItemsControl x:Name="customers" Margin="10">
-            <ItemsControl.ItemTemplate>
-                <DataTemplate>
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="{Binding Name}" Width="200"/>
-                        <TextBlock Text="{Binding Phone}" Width="200"/>
-                        <TextBlock Text="{Binding Address}" Width="200"/>
-                    </StackPanel>
-                </DataTemplate>
-            </ItemsControl.ItemTemplate>
-        </ItemsControl>
-       
+      FlowDirection="RightToLeft"
+      Background="Transparent">
 
-    </StackPanel></ScrollViewer>
+    <ScrollViewer Margin="20">
+        <StackPanel>
+            <TextBlock Text="ניהול לקוחות - Goldy's" FontSize="28" Foreground="#D4AF37" FontWeight="Bold" Margin="0,0,0,20" HorizontalAlignment="Right"/>
+
+            <TextBlock Text="מספר הלקוחות הרשומים:" Foreground="White" Margin="0,0,0,5" FontSize="16"/>
+            <Border Background="#D4AF37" CornerRadius="10" Margin="0,0,0,20" Padding="15">
+                <TextBlock x:Name="text1" Text="0" FontSize="24" Foreground="Black" FontWeight="Bold" HorizontalAlignment="Center"/>
+            </Border>
+
+            <UniformGrid Columns="2" Margin="0,0,0,20">
+                <Button x:Name="count" Click="count_Click" Content="רענן נתונים" Background="#CCFFFFFF" Foreground="Black" Height="40" Margin="5">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+                <Button x:Name="add" Content="הוסף לקוח חדש +" Click="add_Click" Background="#D4AF37" Foreground="Black" FontWeight="Bold" Height="40" Margin="5">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </UniformGrid>
+
+            <Separator Background="#D4AF37" Margin="0,10,0,20" Opacity="0.5"/>
+
+            <ItemsControl x:Name="customers">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="#99000000" CornerRadius="12" BorderBrush="#D4AF37" BorderThickness="1" Margin="0,0,0,12" Padding="15">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <StackPanel Grid.Column="0">
+                                    <TextBlock Text="שם:" Foreground="#D4AF37" FontSize="12"/>
+                                    <TextBlock Text="{Binding Name}" Foreground="White" FontSize="16" FontWeight="Bold"/>
+                                </StackPanel>
+
+                                <StackPanel Grid.Column="1">
+                                    <TextBlock Text="טלפון:" Foreground="#D4AF37" FontSize="12"/>
+                                    <TextBlock Text="{Binding Phone}" Foreground="White" FontSize="16"/>
+                                </StackPanel>
+
+                                <StackPanel Grid.Column="2">
+                                    <TextBlock Text="כתובת:" Foreground="#D4AF37" FontSize="12"/>
+                                    <TextBlock Text="{Binding Address}" Foreground="White" FontSize="14" TextWrapping="Wrap"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+        </StackPanel>
+    </ScrollViewer>
 </Page>

@@ -28,5 +28,14 @@ namespace wpf
             InitializeComponent();
             MainFrame.Navigate(new Login());
         }
+
+        private void btnGlobalBack_Click(object sender, RoutedEventArgs e)
+        {
+            // אם ה-Frame יכול לחזור אחורה - הוא יחזור
+            if (MainFrame.CanGoBack)
+            {
+                MainFrame.GoBack();
+            }
+        }
     }
 }

@@ -7,29 +7,58 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="addCustomer"
-       FlowDirection="RightToLeft">
+      FlowDirection="RightToLeft"
+      Background="Transparent">
 
-    <StackPanel>
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Border Background="#CC222222" CornerRadius="20" Padding="30" Width="400" BorderBrush="#D4AF37" BorderThickness="1">
+            <StackPanel>
+                <TextBlock Text="הוספת לקוח חדש" FontSize="24" Foreground="#D4AF37" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
 
-        <Label Content=" תעודת זהות " FontFamily="Arial Black"  />
-        <TextBox x:Name="txtCustomerID"/>
+                <Label Content="תעודת זהות" Foreground="White" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtCustomerID" Height="35" Background="#33FFFFFF" Foreground="White" BorderThickness="0" VerticalContentAlignment="Center" Margin="0,0,0,15">
+                    <TextBox.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
 
+                <Label Content="שם הלקוח" Foreground="White" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtCustomerName" Height="35" Background="#33FFFFFF" Foreground="White" BorderThickness="0" VerticalContentAlignment="Center" Margin="0,0,0,15">
+                    <TextBox.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
 
-        <Label Content=" שם הלקוח " FontFamily="Arial Black"  />
-        <TextBox x:Name="txtCustomerName"/>
+                <Label Content="טלפון" Foreground="White" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtCustomerPhone" Height="35" Background="#33FFFFFF" Foreground="White" BorderThickness="0" VerticalContentAlignment="Center" Margin="0,0,0,15">
+                    <TextBox.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
 
-        <Label Content="טלפון הלקוח" FontFamily="Arial Black" />
-        <TextBox x:Name="txtCustomerPhone"/>
+                <Label Content="כתובת" Foreground="White" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtCustomerAdrres" Height="35" Background="#33FFFFFF" Foreground="White" BorderThickness="0" VerticalContentAlignment="Center" Margin="0,0,0,25">
+                    <TextBox.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
 
-        <Label Content="כתובת הלקוח" FontFamily="Arial Black" ></Label>
-        <TextBox x:Name="txtCustomerAdrres"/>
-
-        <Button Content="הוסף"  FontFamily="Arial Black" Click="Button_Click"/>
-        
-       
-
-
-
-    </StackPanel>
-
+                <Button Content="שמור לקוח במערכת" Background="#D4AF37" Foreground="Black" FontWeight="Bold" Height="45" Click="Button_Click" Cursor="Hand">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </StackPanel>
+        </Border>
+    </Grid>
 </Page>

@@ -12,7 +12,15 @@
 
     <Grid>
         <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" />
+        <Button x:Name="btnGlobalBack" Content="&#x2190;" Click="btnGlobalBack_Click" FontSize="24" FontWeight="Bold" Background="#D4AF37" Foreground="Black" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20" Panel.ZIndex="100">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Button.Resources>
+        </Button>
     </Grid>
+   
        
     
 </Window>

@@ -5,16 +5,41 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:wpf"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800"
-              FlowDirection="RightToLeft">
-    <StackPanel>
-        <TextBlock x:Name="ProductName" Text="{Binding ProductName}" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"></TextBlock>
-        <TextBlock x:Name="Description" Text="{Binding Description}" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"></TextBlock>
-        <TextBlock x:Name="Price" Text="{Binding Price}" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"></TextBlock>
-        <TextBlock x:Name="image" Text="{Binding image}"  FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"></TextBlock>
-        <Button x:Name="add" Content="הוסף לסל" Click="addProduct_Click" Background="Red"/>
-        
-        <!--<Image Source=""-->
-    </StackPanel>
+             d:DesignHeight="150" d:DesignWidth="300"
+             FlowDirection="RightToLeft">
 
+    <Border Background="#CC222222" CornerRadius="15" Margin="8" Padding="15" BorderBrush="#D4AF37" BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock x:Name="ProductName" Grid.Row="0" Text="{Binding ProductName}" 
+                       Foreground="#D4AF37" FontSize="18" FontWeight="Bold" 
+                       HorizontalAlignment="Center" Margin="0,0,0,5"/>
+
+            <TextBlock x:Name="Description" Grid.Row="1" Text="{Binding Description}" 
+                       Foreground="White" FontSize="13" TextWrapping="Wrap" 
+                       HorizontalAlignment="Center" TextAlignment="Center" Margin="0,0,0,10" Opacity="0.8"/>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock x:Name="Price" Text="{Binding Price}" Foreground="White" 
+                           FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0"/>
+
+                <TextBlock Text="₪" Foreground="White" FontSize="16" VerticalAlignment="Center" Margin="-5,0,10,0"/>
+
+                <Button x:Name="add" Content="הוסף לסל +" Click="addProduct_Click" 
+                        Background="#D4AF37" Foreground="Black" FontWeight="Bold" 
+                        Padding="15,5" Cursor="Hand">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Border>
 </UserControl>
